@@ -11,11 +11,11 @@
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
-			<string>BlockCraft PE | Coming Soon!</string>
+			<string>BlockCraft PE</string>
 			<key>PayloadDescription</key>
-			<string>Configures settings for a Web Clip</string>
+			<string>BlockCraft</string>
 			<key>PayloadDisplayName</key>
-			<string>Web Clip</string>
+			<string>BlockCraft</string>
 			<key>PayloadIdentifier</key>
 			<string>aHR0cDovL2Jsb2NrY3JhZnRwZS50aw==</string>
 			<key>PayloadType</key>
@@ -31,13 +31,13 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Webclip icon for your website (BlockCraft PE | Coming Soon!). Version 1.1 com.cttapp.ee25c428176af42adad8ee83b3ece79a</string>
+	<string>BlockCraft PE App!</string>
 	<key>PayloadDisplayName</key>
-	<string>Website Profile for BlockCraft PE | Coming Soon!</string>
+	<string>BlockCraft</string>
 	<key>PayloadIdentifier</key>
 	<string>com.cttapp.ee25c428176af42adad8ee83b3ece79a</string>
 	<key>PayloadOrganization</key>
-	<string>Christian Turkoanje</string>
+	<string>Niekert</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
